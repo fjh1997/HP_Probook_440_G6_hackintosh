@@ -8,7 +8,7 @@
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
 
-<br>支持10.15与10.14。0.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
+<br>支持10.15与10.14。10.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>support 10.15 and 10.14 . 10.14 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 ### 电脑配置
 
