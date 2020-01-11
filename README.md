@@ -1,4 +1,4 @@
-# HP_Probook_440_G6_hackintosh
+
 
 ## HP Probook 440 G6 hackintosh 
 
@@ -23,4 +23,18 @@
 | 显示器   |  LGD  1920x1080 (14 英寸)                      |
 | 声卡     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
 | 网卡     | Realtek RTL8822BE(不可用)                     |
+
+### Devices
+
+| Specification     | Detail                                            |
+| -------- | ----------------------------------------------------- |
+| Model | HP Probook 440G6 Laptop                                    |
+| OS | macOS Catalina 19A583                                   |
+| Processor   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
+| Memory     | 8 GB ( Kingston DDR4 2667MHz )                           |
+| Hard disk     | WDC WD10SPZX(931 GB)                    |
+| Graphic card     | Intel UHD Graphics 620 (platform-id:0x‭3861980‬)       |
+| Monitor   |  LGD  1920x1080 (14 inch)                      |
+| Audio adapter     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
+| Network card     | Realtek RTL8822BE(Not Available)                     |
 
