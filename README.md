@@ -39,10 +39,16 @@
 | Network card     | Realtek RTL8822BE(Not Available)                     |
 
 ### 10.14
+* 支持休眠
+* 不支持Nvme
+* 支持sata
 * sleep supported
 * Nvme unsupported
 * sata supported
 ### 10.15
-* sleep unsupported
+* 支持休眠
+* 不支持Nvme
+* 支持sata* sleep unsupported
 * Nvme unsupported
-* sata supported* Nvme not supported
+* sata supported
+
