@@ -38,3 +38,11 @@
 | Audio adapter     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
 | Network card     | Realtek RTL8822BE(Not Available)                     |
 
+### 10.14
+* sleep supported
+* Nvme unsupported
+* sata supported
+### 10.15
+* sleep unsupported
+* Nvme unsupported
+* sata supported* Nvme not supported
