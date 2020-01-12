@@ -46,9 +46,10 @@
 * Nvme unsupported
 * sata supported
 ### 10.15
-* 支持休眠
+* 不支持休眠
 * 不支持Nvme
-* 支持sata* sleep unsupported
+* 支持sata
+* sleep unsupported
 * Nvme unsupported
 * sata supported
 
