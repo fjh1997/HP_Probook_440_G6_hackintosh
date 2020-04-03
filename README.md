@@ -10,6 +10,10 @@
 
 <br>支持10.15与10.14。10.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>support 10.15 and 10.14 . 10.14 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
+Be sure to open this in bios：
+请确保BIOS里打开如下选项：
+![](bios.png)
+
 ### 电脑配置
 
 | 规格     | 详细信息                                                |
