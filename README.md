@@ -7,6 +7,8 @@
 ![img](https://img.shields.io/github/last-commit/fjh1997/HP_Probook_440_G6_hackintosh.svg?color=blue&style=for-the-badge)](https://github.com/fjh1997/HP_Probook_440_G6_hackintosh)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
+<br> 最新版本在此:https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.15-opencore 试试看!!!!
+<br> the newest version is here:https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.15-opencore enjoy it!!!!
 
 <br>支持10.15与10.14。10.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>support 10.15 and 10.14 . 10.14 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
