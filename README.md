@@ -5,9 +5,6 @@
 ![img](https://img.shields.io/github/last-commit/fjh1997/HP_Probook_440_G6_hackintosh.svg?color=blue&style=for-the-badge)](https://github.com/fjh1997/HP_Probook_440_G6_hackintosh)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
-<br> 最新版本在此:https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/11.3-opencore 试试看!!!!
-<br> the newest version is here:https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/11.3-opencore enjoy it!!!!
-
 <br>支持10.15与10.14。10.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>support 10.15 and 10.14 . 10.14 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>bios configuration file is in repo,version is R71 Ver. 01.12.00 07/30/2020
@@ -29,28 +26,28 @@ bios配置文件仓库里有，版本为R71 Ver. 01.12.00 07/30/2020：
 | 规格     | 详细信息                                                |
 | -------- | ----------------------------------------------------- |
 | 电脑型号 | HP Probook 440G6 笔记本电脑                                    |
-| 操作系统 | macOS Catalina 19A583                                   |
+| 操作系统 | macOS Big Sur 20G165                                   |
 | 处理器   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
 | 内存     | 8 GB ( Kingston DDR4 2667MHz )                           |
 | 硬盘     | WDC WD10SPZX(931 GB)                    |
-| 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x‭3861980‬)       |
+| 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x‭0900A53E‬)       |
 | 显示器   |  LGD  1920x1080 (14 英寸)                      |
 | 声卡     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
-| 网卡     | Realtek RTL8822BE(不可用)                     |
+| 网卡     | Realtek RTL8822BE(更换为  BCM94352Z 支持隔空投送)                     |
 
 ### Devices
 
 | Specification     | Detail                                            |
 | -------- | ----------------------------------------------------- |
 | Model | HP Probook 440G6 Laptop                                    |
-| OS | macOS Catalina 19A583                                   |
+| OS | macOS Big Sur 20G165                                  |
 | Processor   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
 | Memory     | 8 GB ( Kingston DDR4 2667MHz )                           |
 | Hard disk     | WDC WD10SPZX(931 GB)                    |
-| Graphic card     | Intel UHD Graphics 620 (platform-id:0x‭3861980‬)       |
+| Graphic card     | Intel UHD Graphics 620 (platform-id:0x0900A53E‬)       |
 | Monitor   |  LGD  1920x1080 (14 inch)                      |
 | Audio adapter     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
-| Network card     | Realtek RTL8822BE(Not Available)                     |
+| Network card     | Realtek RTL8822BE( replace to BCM94352Z to support airdrop )                     |
 
 
 
