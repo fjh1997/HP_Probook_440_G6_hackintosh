@@ -5,8 +5,17 @@
 ![img](https://img.shields.io/github/last-commit/fjh1997/HP_Probook_440_G6_hackintosh.svg?color=blue&style=for-the-badge)](https://github.com/fjh1997/HP_Probook_440_G6_hackintosh)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
+<br>支持12 monterey可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/opencore-12 但有关机卡住的问题，也可能会无法安装在nvme上
+<br>monterey 12 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/opencore-12 .But this branch have shutdown freezing issue.And might not be able to install on nvme.
+
+
+
+
 <br>支持10.15与10.14。10.14可参考https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
 <br>support 10.15 and 10.14 . 10.14 is this branch https://github.com/fjh1997/HP_Probook_440_G6_hackintosh/tree/10.14
+
+
+
 <br>bios configuration file is in repo,version is R71 Ver. 01.12.00 07/30/2020
 <br>HpSetup.txt
 
