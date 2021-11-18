@@ -113,8 +113,7 @@
 				<string>Drop CpuPm</string>
 				<key>Enabled</key>
 				<false/>
-				<key>OemTable
-				</key>
+				<key>OemTableId</key>
 				<data>Q3B1UG0AAAA=</data>
 				<key>TableLength</key>
 				<integer>0</integer>
@@ -1122,7 +1121,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
