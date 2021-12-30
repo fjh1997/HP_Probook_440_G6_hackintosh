@@ -22,8 +22,8 @@
 bios配置文件仓库里有，版本为R71 Ver. 01.12.00 07/30/2020：
 <br>HpSetup.txt
 
-<br>Be sure to close this in bios,and replace original Micron nvme to support one，or the nvme ssd is not recognized：
-<br>请确保bios里面关闭这个选项，否则nvme不识别。
+<br>Be sure to close this in bios,and replace original Micron nvme harddisk to support one，or the nvme ssd is not recognized：
+<br>请确保bios里面关闭这个选项，同时将原装镁光的nvme 硬盘替换为其他支持的牌子，否则nvme不识别。
 <br>
 
 
