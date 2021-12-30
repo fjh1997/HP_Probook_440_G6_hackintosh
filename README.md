@@ -22,7 +22,7 @@
 bios配置文件仓库里有，版本为R71 Ver. 01.12.00 07/30/2020：
 <br>HpSetup.txt
 
-<br>Be sure to open this in bios，or the nvme ssd is not recognized：
+<br>Be sure to close this in bios,and replace original Micron nvme to support one，or the nvme ssd is not recognized：
 <br>请确保bios里面关闭这个选项，否则nvme不识别。
 <br>
 
@@ -38,7 +38,7 @@ bios配置文件仓库里有，版本为R71 Ver. 01.12.00 07/30/2020：
 | 操作系统 | macOS Big Sur 20G165                                   |
 | 处理器   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
 | 内存     | 8 GB ( Kingston DDR4 2667MHz )                           |
-| 硬盘     | WDC WD10SPZX(931 GB)                    |
+| 硬盘     | WDC WD10SPZX(931 GB)  （原本是镁光的硬盘，不支持）                  |
 | 显卡     | 英特尔 UHD Graphics 620 (platform-id:0x‭0900A53E‬)       |
 | 显示器   |  LGD  1920x1080 (14 英寸)                      |
 | 声卡     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
@@ -52,7 +52,7 @@ bios配置文件仓库里有，版本为R71 Ver. 01.12.00 07/30/2020：
 | OS | macOS Big Sur 20G165                                  |
 | Processor   | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz                  |
 | Memory     | 8 GB ( Kingston DDR4 2667MHz )                           |
-| Hard disk     | WDC WD10SPZX(931 GB)                    |
+| Hard disk     | WDC WD10SPZX(931 GB) （instead of original Micron）                   |
 | Graphic card     | Intel UHD Graphics 620 (platform-id:0x0900A53E‬)       |
 | Monitor   |  LGD  1920x1080 (14 inch)                      |
 | Audio adapter     | 	Intel Cannon Lake PCH-LP - cAVS  (layout-id:3)                                 |
